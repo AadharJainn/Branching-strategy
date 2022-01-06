@@ -16,6 +16,7 @@ class reverse
 		else
 		{
 			System.out.println("String is not palindrome");
+			System.out.println("Will be adding new feature from branch feature2 !");
 		}
 
 }   }
